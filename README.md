@@ -18,5 +18,5 @@ The Persian speaker book covers a wide range of topics, from basic concepts to h
 - Spotify: https://open.spotify.com/show/6aQdgKiOF5tuzI7mpijlfj
 - Castbox: https://castbox.fm/va/5381928
 ## Social Networks
-[![Gofarsi Book](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://book.gofarsi.ir)
+[![Gofarsi](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)](https://github.com/GoFarsi)
 [![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/gopher)
