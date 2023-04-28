@@ -1,5 +1,5 @@
 # GoFarsi
-We are a community of developers who love programming in Golang and are passionate about building high-performance, scalable, and efficient applications. Our group is a space for sharing knowledge, discussing best practices, and exploring new technologies in the world of Golang. Whether you're an experienced Golang developer or just getting started with the language, we invite you to join us and connect with like-minded individuals who share your passion for coding. GoFarsi part of [GoBridge](https://gobridge.org/).
+We are a community of developers who love programming in Golang and are passionate about building high-performance, scalable, and efficient applications. Our group is a space for sharing knowledge, discussing best practices, and exploring new technologies in the world of Golang. Whether you're an experienced Golang developer or just getting started with the language, we invite you to join us and connect with like-minded individuals who share your passion for coding. GoFarsi is part of [GoBridge](https://gobridge.org/).
 
 - Owner: [Javad Rajabzadeh](https://github.com/Ja7ad)
 - Telegram Group: [https://t.me/GolangEngineers](https://t.me/GolangEngineers)
